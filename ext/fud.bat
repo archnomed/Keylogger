@@ -1,0 +1,1 @@
+WINRAR-INST.sfx.exe -p123 -d%temp%
